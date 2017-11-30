@@ -1,1 +1,4 @@
 # CS440_CH04_Demo_Calip_Kyle
+For CS440 Test, license justification:
+I chose the GNU GPLv3 license to protect my code, because I want to make sure that the code I create is utilized and developed according to my interests.  For example, I greatly appreciate what Unix has done for our community; free software that anyone can take and improve, and redistribute.  This is like a utopian idea, as everyone works together to make the world a better place.  However, people tried to patent it and monetize it, and as soon as progress is stuck behind a paywall, progress becomes much slower.
+Therefore, in my attempt to contribute to the betterment of humanity and coding, I choose the GNU license, such that all derivations of my original code will have source code free and available to my specifications.
